@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Remote Desktop Host</title>
+    <item>
+      <title>Version 1.0 (7)</title>
+      <pubDate>Sat, 14 Nov 2026 23:29:11 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tap, then touch again and drag, to drag</li></ul><p>Update the Remote Desktop app on your iPhone too, so the two stay in step.</p>]]></description>
+      <enclosure url="https://jaredcottone.github.io/remote-desktop-releases/RemoteDesktopHost-7.zip" type="application/octet-stream" sparkle:edSignature="AomBge7W7ycFoIgjqvbRNv1dpP6tXCVN8orM9O2AKx5ekayxsPvkI7eJ/vqVvAwALhU8saWgDMdX2M5r25rZBA==" length="3577329"/>
+    </item>
+  </channel>
+</rss>
